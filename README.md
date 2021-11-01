@@ -1,3 +1,6 @@
+Starter code taken from Udacity repository:
+https://github.com/udacity/android-kotlin-notifications/tree/start
+
 EggTimer - Final Code 
 ============================================================================
 
